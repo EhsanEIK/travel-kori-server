@@ -2,16 +2,19 @@
     {
         "id": 1,
         "image": "https://t3.ftcdn.net/jpg/04/23/20/24/360_F_423202434_PerXFwQDZiYNqMysjAAgGfOHi0BcMxDb.jpg",
-        "name": "Sajek"
+        "name": "Sajek",
+        "description": "Sajek Valley is an emerging tourist spot in Bangladesh situated among the hills of the Kasalong range of mountains in Sajek union, Baghaichhari Upazila in the Rangamati District. The valley is 1,476 feet (450 m) above sea level. Sajek valley is known as the Queen of Hills & Roof of Rangamati. Sajek is located in the verdant hills of Kasalong range of mountains amidst the serene and exotic beauty of nature. Lofty mountains, dense forest, sprawling grasslands and miles of hilly tracks feature the valley. The simple and basic indigenous lifestyle of local people is just fabulous for visitors to spend a day."
     },
     {
         "id": 2,
         "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/9f/59/66/caption.jpg?w=1200&h=-1&s=1",
-        "name": "Sreemongol"
+        "name": "Sreemongol",
+        "description": "Sreemangal is the tea capital of Bangladesh. The green tea plantation attracts most tourists. The tea of highest quality is produced here. Sreemangal  is the place where tea and tea gardens are available from where Sylhet has been contributing to improving economic growth of Bangladesh. There are almost 163 tea gardens  in Bangladesh. You can see Tea Garden is everywhere in the Sreemangal. Seeing the tea garden, it seems as if nature has spread a green carpet on the hills. Zigzag Roads in the middle of the tea garden on both sides looks very charming.  On the way of Sreemangal by bus you’ll see the statue named “Cha Konna” which is a stand for welcome you."
     },
     {
         "id": 3,
         "image": "http://priobangla.net/responsive/images/spot/71/sundarban-tiger-3.jpg",
-        "name": "Shundorban"
+        "name": "Shundorban",
+        "description": "The Sundarbans mangrove forest, one of the largest such forests in the world (140,000 ha), lies on the delta of the Ganges, Brahmaputra and Meghna rivers on the Bay of Bengal. It is adjacent to the border of India’s Sundarbans World Heritage site inscribed in 1987. The site is intersected by a complex network of tidal waterways, mudflats and small islands of salt-tolerant mangrove forests, and presents an excellent example of ongoing ecological processes. The area is known for its wide range of fauna, including 260 bird species, the Bengal tiger and other threatened species such as the estuarine crocodile and the Indian python."
     }
 ]
