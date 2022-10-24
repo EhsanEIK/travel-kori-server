@@ -21,7 +21,7 @@
         "name": "Family Room",
         "price": 4500,
         "person": 4,
-        "bed": 1
+        "bed": 2
     },
     {
         "id": "634ed743e2de5157b2a65c50",
@@ -29,7 +29,7 @@
         "name": "Super Delux",
         "price": 6500,
         "person": 5,
-        "bed": 2
+        "bed": 1
     },
     {
         "id": "634ed7439968e6b5j279io2va",
