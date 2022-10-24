@@ -30,5 +30,37 @@
         "price": 6500,
         "person": 5,
         "bed": 2
+    },
+    {
+        "id": "634ed7439968e6b5j279io2va",
+        "img": "https://www.furl.co.uk/img/storage-beds/hotel/m/hero-1.jpg",
+        "name": "Single Room",
+        "price": 2000,
+        "person": 1,
+        "bed": 1
+    },
+    {
+        "id": "634ed7439968ej92klpcn73s",
+        "img": "https://cache.marriott.com/content/dam/marriott-renditions/LAXWH/laxwh-guestroom-7893-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1336px:*",
+        "name": "Couple Room",
+        "price": 3500,
+        "person": 2,
+        "bed": 1
+    },
+    {
+        "id": "634ed7439968e2i9a788aqch3",
+        "img": "https://i.pinimg.com/originals/9d/70/68/9d7068fc8e77cffdf23eab846a01e521.jpg",
+        "name": "Family Room",
+        "price": 4500,
+        "person": 4,
+        "bed": 1
+    },
+    {
+        "id": "634ed7439968e6u2h45sbz7m9",
+        "img": "https://cdn.apartmenttherapy.info/image/upload/v1558937138/at/archive/e919cebdaa9ada82a32855129b5475e1951b20f1.jpg",
+        "name": "Super Delux",
+        "price": 6500,
+        "person": 5,
+        "bed": 2
     }
 ]
